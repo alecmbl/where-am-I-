@@ -3,9 +3,6 @@
 % Exercise:       3 - Sequential filters
 % Author:         Alessandro Cambielli
 
-% ID number:      10619322
-%                 102615
-
 %% REQUEST 1
 
 % Clear memory workspace and set path
